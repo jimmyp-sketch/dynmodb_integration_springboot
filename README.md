@@ -1,0 +1,1 @@
+# dynmodb_integration_springboot
